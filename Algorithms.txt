@@ -1,0 +1,129 @@
+Regression Algorithms: 
+    1. Linear Regression (Simple And Multiple)
+    2. Polynomial Regression
+    3. Ridge Regression
+    4. Lasso Regression
+    5. Elastic Net Regression
+    6. Bayesian Regression
+    7. Quantile Regression
+    8. Support Vector Regression (SVR)
+    9. Robust Regression (Using Huber Loss)
+    10. Theil-Sen Estimator
+Classification Algorithms:
+    1. Logistic Regression
+    2. K-Nearest Neighbors (KNN)
+    3. Support Vector Machines (SVM)
+    4. Decision Trees
+    5. Random Forests
+    6. Naive Bayes
+    7. Gradient Boosting Machines (GBM)
+    8. XGBoost
+    9. LightGBM
+    10. CatBoost
+    11. Multinomial Naive Bayes
+    12. Bernoulli Naive Bayes
+    13. Quadratic Discriminant Analysis (QDA)
+    14. Linear Discriminant Analysis (LDA)
+    15. Extreme Gradient Boosting
+Clustering Algorithms:
+    1. K-Means Clustering
+    2. Hierarchical Clustering
+    3. DBSCAN
+    4. Gaussian Mixture Models (GMM)
+    5. Mean Shift Clustering
+    6. Affinity Propagation
+    7. Spectral Clustering
+    8. BIRCH
+    9. Agglomerative Clustering
+    10. OPTICS
+Dimensionality Reduction Algorithms:
+    1. Principal Component Analysis (PCA)
+    2. Linear Discriminant Analysis (LDA)
+    3. t-Distributed Stochastic Neighbor Embedding (t-SNE)
+    4. Factor Analysis
+    5. Independent Component Analysis (ICA)
+    6. Autoencoders
+    7. Non-negative Matrix Factorization (NMF)
+    8. Truncated SVD
+    9. Isomap
+    10. Locally Linear Embedding (LLE)
+    11. Multidimensional Scaling (MDS)
+Neural Networks and Deep Learning:
+    1. Perceptron
+    2. Feedforward Neural Networks (FNN)
+    3. Convolutional Neural Networks (CNN)
+    4. Recurrent Neural Networks (RNN)
+    5. Long Short-Term Memory Networks (LSTM)
+    6. Generative Adversarial Networks (GANs)
+    7. Deep Belief Networks (DBN)
+    8. Autoencoders (Deep Autoencoders)
+    9. Transformer Models (BERT, GPT)
+    10. Attention Mechanisms
+    11. Graph Neural Networks (GNN)
+    12. Self-Organizing Maps (SOM)
+    13. Boltzmann Machines
+Ensemble Methods:
+    1. Bagging
+    2. Random Forest
+    3. AdaBoost
+    4. Gradient Boosting
+    5. Stacking
+    6. Voting Classifier
+    7. Bootstrap Aggregating (Bagging)
+    8. Boosting (Gradient Boosting, AdaBoost)
+    9. Stochastic Gradient Boosting
+    10. Blending
+    11. Bayesian Model Averaging
+Natural Language Processing:
+    1. Text Classification
+    2. Sentiment Analysis
+    3. Named Entity Recognition (NER)
+    4. Topic Modeling (LDA, LSA)
+    5. Word Embeddings (Word2Vec, GloVe)
+    6. Transformer Models (BERT, GPT)
+    7. Sequence to Sequence Models (Seq2Seq)
+    8. Text Summarization
+    9. Machine Translation
+    10. Question Answering Systems
+Anomaly Detection:
+    1. Isolation Forest
+    2. One-Class SVM
+    3. Local Outlier Factor (LOF)
+    4. Elliptic Envelope
+    5. Autoencoders for Anomaly Detection
+    6. Robust Covariance Estimation
+    7. K-Means for Anomaly Detection
+    8. Principal Component Analysis (PCA) for Anomaly Detection
+Reinforcement Learning:
+    1. Q-Learning
+    2. Deep Q-Learning (DQN)
+    3. Policy Gradients
+    4. Actor-Critic Methods
+    5. Proximal Policy Optimization (PPO)
+    6. Monte Carlo Methods
+    7. Temporal Difference Learning
+    8. Asynchronous Advantage Actor-Critic (A3C)
+    9. Soft Actor-Critic (SAC)
+    10. Double Q-Learning
+Time Series Analysis:
+    1. ARIMA
+    2. SARIMA
+    3. Holt-Winters Exponential Smoothing
+    4. Prophet
+    5. LSTM for Time Series
+    6. Seasonal Decomposition of Time Series (STL)
+    7. Vector Autoregression (VAR)
+    8. Dynamic Time Warping (DTW)
+    9. Exponential Smoothing State Space Model (ETS)
+    10. Fourier Analysis
+Feature Selection and Extraction:
+    1. Recursive Feature Elimination (RFE)
+    2. Principal Component Analysis (PCA)
+    3. L1-Based Feature Selection (Lasso)
+    4. Tree-based Feature Selection (Random Forest)
+    5. Mutual Information
+    6. Chi-Square Test
+    7. ANOVA
+    8. Embedded Methods (LASSO, Ridge)
+    9. Univariate Feature Selection
+    10. Feature Importance from Model

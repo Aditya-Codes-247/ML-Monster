@@ -1,0 +1,37 @@
+MachineLearningAlgorithms/
+├── README.md
+├── data_analysis/
+│   ├── dataset1_analysis.ipynb
+│   ├── dataset2_analysis.ipynb
+│   └── ...
+├── algorithms/
+│   ├── regression/
+│   │   ├── linear_regression/
+│   │   │   ├── hardcoded.py
+│   │   │   ├── sklearn.py
+│   │   │   └── explanation.md
+│   │   ├── polynomial_regression/
+│   │   │   ├── hardcoded.py
+│   │   │   ├── sklearn.py
+│   │   │   └── explanation.md
+│   │   └── ...
+│   ├── classification/
+│   │   ├── logistic_regression/
+│   │   │   ├── hardcoded.py
+│   │   │   ├── sklearn.py
+│   │   │   └── explanation.md
+│   │   ├── knn/
+│   │   │   ├── hardcoded.py
+│   │   │   ├── sklearn.py
+│   │   │   └── explanation.md
+│   │   └── ...
+│   ├── clustering/
+│   ├── dimensionality_reduction/
+│   ├── neural_networks/
+│   ├── ensemble_methods/
+│   ├── nlp/
+│   ├── anomaly_detection/
+│   ├── reinforcement_learning/
+│   ├── time_series_analysis/
+│   └── feature_selection/
+└── requirements.txt
